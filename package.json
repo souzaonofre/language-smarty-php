@@ -1,12 +1,11 @@
 {
   "name": "language-smarty-php",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Convertion of the smarty-php bundle for TextMate.",
   "repository": "https://github.com/martin-damien/language-smarty-php",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }

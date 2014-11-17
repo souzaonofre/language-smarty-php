@@ -4,6 +4,9 @@
 'name': 'Smarty'
 'patterns': [
   {
+    "include": "text.html.basic"
+  },
+  {
     'begin': '(?<=\\{)\\*'
     'captures':
       '0':
